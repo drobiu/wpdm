@@ -8,7 +8,7 @@ Welcome to the TSProto documentation
 
 
 
-**WPDM (Warsztat Praktyka Data Mining)** is toolkit for usefull functions and models used during WPDM course at JU..
+**WPDM (Warsztat Praktyka Data Mining)** is a toolkit containing useful functions and models used during the WPDM course at JU.
 
 Install
 =======
